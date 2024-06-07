@@ -1,0 +1,82 @@
+body {
+    font-family: Permanent Marker, sans-serif;
+}
+
+.navbar {
+    background-color: #000;
+}
+
+#cabecalho .nav
+.nav-link.active {
+    background-color: #fff;
+    color: #000;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-servicos
+.nav-link.active:hover {
+    color: #fff;
+}
+
+.navbar-toggler {
+    background-color: #000;
+}
+
+.section-title {
+    font-family: 'Dancing Script', cursive;
+}
+
+.section-title-1 {
+    font-family: Permanent Marker, sans-serif;
+}
+
+#sobre-nos, #servicos {
+    background-color: #c7c6c6;
+}
+
+.text-colored {
+    color: #888787;
+}
+
+.text-colored-1 {
+    color: #000;
+}
+
+.nav-servicos
+.nav-link.active,
+#fale-conosco button {
+    background-color: #000;
+    color: #fff;
+}
+
+.nav-servicos
+.nav-link:hover {
+    color: #000;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links {
+    text-decoration: none;
+}
+
+.rodape {
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+}
+
+#fale-conosco textarea {
+    resize: none;
+}
+
+@media (max-width: 767px) {
+    .carousel-item img {
+        height: 280px;
+    }
+}
